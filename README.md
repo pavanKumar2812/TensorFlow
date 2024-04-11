@@ -18,4 +18,4 @@ The TensorFlow Developer Certification is designed to test your proficiency in u
 ## Getting Started
 If you're new to TensorFlow, start by familiarizing yourself with the basics through tutorials and documentation. Then, progressively work through the practice exercises and projects to deepen your understanding and build your skills.
 
-Happy learning and best of luck on your certification journey! 🌟
+Happy learning!
